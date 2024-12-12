@@ -1,3 +1,3 @@
-# GenesysCloud Integration
+# GenesysCloud Voice Integration
 
-[Genesys Cloud Integration](https://cloud.google.com/agent-assist/docs/genesys-cloud-app)
+[Genesys Cloud Voice Integration](https://cloud.google.com/agent-assist/docs/genesys-cloud-voice)
